@@ -1,2 +1,4 @@
-DSvenv\
+venv/
+logs/
+artifacts/
 
