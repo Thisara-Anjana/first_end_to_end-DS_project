@@ -9,3 +9,17 @@
 [2026-07-18 18:45:18,013: INFO: common]: yaml file: schema.yaml loaded successfully]
 [2026-07-18 18:45:18,013: INFO: common]: Directory created at: artifacts]
 [2026-07-18 18:45:18,013: INFO: common]: Directory created at: artifacts/data_ingestion]
+[2026-07-22 09:33:06,790: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-22 09:33:06,791: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-22 09:33:06,793: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-22 09:33:06,794: INFO: common]: Directory created at: artifacts]
+[2026-07-22 09:33:06,795: INFO: common]: Directory created at: artifacts/data_ingestion]
+[2026-07-23 13:35:41,728: INFO: main]: >>>>> stage Data Ingestion stage started <<<<<]
+[2026-07-23 13:35:41,731: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-23 13:35:41,732: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-23 13:35:41,732: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-23 13:35:41,733: INFO: common]: Directory created at: artifacts]
+[2026-07-23 13:35:41,733: INFO: common]: Directory created at: artifacts/data_ingestion]
+[2026-07-23 13:35:43,960: INFO: main]: >>>>> stage Data Ingestion stage completed <<<<<
+
+x==========x]
