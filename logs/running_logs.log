@@ -23,3 +23,100 @@
 [2026-07-23 13:35:43,960: INFO: main]: >>>>> stage Data Ingestion stage completed <<<<<
 
 x==========x]
+[2026-07-27 17:01:56,900: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-27 17:01:56,902: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-27 17:01:56,905: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-27 17:01:56,907: INFO: common]: Directory created at: artifacts]
+[2026-07-27 17:01:56,908: INFO: common]: Directory created at: artifacts/data_ingestion]
+[2026-07-27 17:05:34,816: INFO: main]: >>>>> stage Data Ingestion stage started <<<<<]
+[2026-07-27 17:05:34,819: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-27 17:05:34,819: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-27 17:05:34,820: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-27 17:05:34,821: INFO: common]: Directory created at: artifacts]
+[2026-07-27 17:05:34,821: INFO: common]: Directory created at: artifacts/data_ingestion]
+[2026-07-27 17:05:34,824: INFO: main]: >>>>> stage Data Ingestion stage completed <<<<<
+
+x==========x]
+[2026-07-27 17:14:39,569: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-27 17:14:39,571: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-27 17:14:39,573: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-27 17:14:39,574: INFO: common]: Directory created at: artifacts]
+[2026-07-27 17:14:39,575: INFO: common]: Directory created at: artifacts/data_ingestion]
+[2026-07-27 17:25:14,513: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-27 17:25:14,515: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-27 17:25:14,517: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-27 17:25:14,520: INFO: common]: Directory created at: artifacts]
+[2026-07-27 17:25:14,521: INFO: common]: Directory created at: artifacts/data_validation]
+[2026-07-27 17:25:55,533: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-27 17:25:55,535: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-27 17:25:55,536: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-27 17:25:55,537: INFO: common]: Directory created at: artifacts]
+[2026-07-27 17:25:55,538: INFO: common]: Directory created at: artifacts/data_validation]
+[2026-07-27 17:26:34,109: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-27 17:26:34,111: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-27 17:26:34,113: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-27 17:26:34,114: INFO: common]: Directory created at: artifacts]
+[2026-07-27 17:26:34,115: INFO: common]: Directory created at: artifacts/data_validation]
+[2026-07-27 17:27:34,656: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-27 17:27:34,658: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-27 17:27:34,660: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-27 17:27:34,661: INFO: common]: Directory created at: artifacts]
+[2026-07-27 17:27:34,662: INFO: common]: Directory created at: artifacts/data_validation]
+[2026-07-27 17:34:24,597: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-27 17:34:24,599: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-27 17:34:24,601: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-27 17:34:24,602: INFO: common]: Directory created at: artifacts]
+[2026-07-27 17:34:24,603: INFO: common]: Directory created at: artifacts/data_validation]
+[2026-07-27 17:35:03,160: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-27 17:35:03,162: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-27 17:35:03,164: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-27 17:35:03,165: INFO: common]: Directory created at: artifacts]
+[2026-07-27 17:35:03,166: INFO: common]: Directory created at: artifacts/data_validation]
+[2026-07-27 18:21:35,535: INFO: main]: >>>>> stage Data Ingestion stage started <<<<<]
+[2026-07-27 18:21:35,538: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-27 18:21:35,540: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-27 18:21:35,541: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-27 18:21:35,542: INFO: common]: Directory created at: artifacts]
+[2026-07-27 18:21:35,542: INFO: common]: Directory created at: artifacts/data_ingestion]
+[2026-07-27 18:21:35,545: INFO: main]: >>>>> stage Data Ingestion stage completed <<<<<
+
+x==========x]
+[2026-07-27 18:21:35,545: INFO: main]: >>>>> stage Data Validation stage started <<<<<]
+[2026-07-27 18:21:35,546: ERROR: main]: 'DataIngestionTrainingPipeline' object has no attribute 'initiate_data_validation']
+Traceback (most recent call last):
+  File "C:\Users\2021ICTS11\Documents\Krish Naik Projects\first_end_to_end-DS_project\main.py", line 20, in <module>
+    data_ingestion.initiate_data_validation()
+AttributeError: 'DataIngestionTrainingPipeline' object has no attribute 'initiate_data_validation'
+[2026-07-27 18:23:38,197: INFO: main]: >>>>> stage Data Ingestion stage started <<<<<]
+[2026-07-27 18:23:38,200: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-27 18:23:38,200: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-27 18:23:38,201: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-27 18:23:38,201: INFO: common]: Directory created at: artifacts]
+[2026-07-27 18:23:38,202: INFO: common]: Directory created at: artifacts/data_ingestion]
+[2026-07-27 18:23:38,204: INFO: main]: >>>>> stage Data Ingestion stage completed <<<<<
+
+x==========x]
+[2026-07-27 18:23:38,204: INFO: main]: >>>>> stage Data Validation stage started <<<<<]
+[2026-07-27 18:23:38,204: ERROR: main]: 'DataIngestionTrainingPipeline' object has no attribute 'initiate_data_validation']
+Traceback (most recent call last):
+  File "C:\Users\2021ICTS11\Documents\Krish Naik Projects\first_end_to_end-DS_project\main.py", line 21, in <module>
+    data_ingestion.initiate_data_validation()
+AttributeError: 'DataIngestionTrainingPipeline' object has no attribute 'initiate_data_validation'
+[2026-07-27 18:24:37,355: INFO: main]: >>>>> stage Data Ingestion stage started <<<<<]
+[2026-07-27 18:24:37,358: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-27 18:24:37,359: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-27 18:24:37,360: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-27 18:24:37,360: INFO: common]: Directory created at: artifacts]
+[2026-07-27 18:24:37,361: INFO: common]: Directory created at: artifacts/data_ingestion]
+[2026-07-27 18:24:37,363: INFO: main]: >>>>> stage Data Ingestion stage completed <<<<<
+
+x==========x]
+[2026-07-27 18:24:37,363: INFO: main]: >>>>> stage Data Validation stage started <<<<<]
+[2026-07-27 18:24:37,365: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-27 18:24:37,366: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-27 18:24:37,367: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-27 18:24:37,367: INFO: common]: Directory created at: artifacts]
+[2026-07-27 18:24:37,368: INFO: common]: Directory created at: artifacts/data_validation]
+[2026-07-27 18:24:37,388: INFO: main]: >>>>> stage Data Validation stage completed <<<<<
+
+x==========x]
