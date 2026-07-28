@@ -120,3 +120,367 @@ x==========x]
 [2026-07-27 18:24:37,388: INFO: main]: >>>>> stage Data Validation stage completed <<<<<
 
 x==========x]
+[2026-07-28 18:35:21,379: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-28 18:35:21,397: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-28 18:35:21,407: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-28 18:35:21,409: INFO: common]: Directory created at: artifacts]
+[2026-07-28 18:35:21,410: INFO: common]: Directory created at: artifacts/data_transformation]
+[2026-07-28 18:35:21,466: INFO: 492375393]: Train and Test data saved in artifacts\data_transformation]
+[2026-07-28 18:35:21,467: INFO: 492375393]: Train data shape: (1199, 12)]
+[2026-07-28 18:35:21,467: INFO: 492375393]: Test data shape: (400, 12)]
+[2026-07-28 19:45:07,510: INFO: main]: >>>>> stage Data Ingestion stage started <<<<<]
+[2026-07-28 19:45:07,512: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-28 19:45:07,513: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-28 19:45:07,514: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-28 19:45:07,515: INFO: common]: Directory created at: artifacts]
+[2026-07-28 19:45:07,515: INFO: common]: Directory created at: artifacts/data_ingestion]
+[2026-07-28 19:45:07,539: INFO: main]: >>>>> stage Data Ingestion stage completed <<<<<
+
+x==========x]
+[2026-07-28 19:45:07,539: INFO: main]: >>>>> stage Data Validation stage started <<<<<]
+[2026-07-28 19:45:07,541: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-28 19:45:07,542: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-28 19:45:07,543: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-28 19:45:07,543: INFO: common]: Directory created at: artifacts]
+[2026-07-28 19:45:07,543: INFO: common]: Directory created at: artifacts/data_validation]
+[2026-07-28 19:45:07,559: INFO: main]: >>>>> stage Data Validation stage completed <<<<<
+
+x==========x]
+[2026-07-28 19:45:07,559: INFO: main]: >>>>>>>>stageData Transformation stage started<<<<<<<<<<<<<]
+[2026-07-28 19:45:07,565: INFO: main]: >>>>>>>>>>>>>>> stage Data Transformation stage<<<<<<<<<
+
+x=========x]
+[2026-07-28 19:46:03,023: INFO: main]: >>>>> stage Data Ingestion stage started <<<<<]
+[2026-07-28 19:46:03,025: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-28 19:46:03,026: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-28 19:46:03,027: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-28 19:46:03,027: INFO: common]: Directory created at: artifacts]
+[2026-07-28 19:46:03,027: INFO: common]: Directory created at: artifacts/data_ingestion]
+[2026-07-28 19:46:03,031: INFO: main]: >>>>> stage Data Ingestion stage completed <<<<<
+
+x==========x]
+[2026-07-28 19:46:03,031: INFO: main]: >>>>> stage Data Validation stage started <<<<<]
+[2026-07-28 19:46:03,033: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-28 19:46:03,034: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-28 19:46:03,035: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-28 19:46:03,035: INFO: common]: Directory created at: artifacts]
+[2026-07-28 19:46:03,035: INFO: common]: Directory created at: artifacts/data_validation]
+[2026-07-28 19:46:03,052: INFO: main]: >>>>> stage Data Validation stage completed <<<<<
+
+x==========x]
+[2026-07-28 19:46:03,052: INFO: main]: >>>>>>>>stageData Transformation stage started<<<<<<<<<<<<<]
+[2026-07-28 19:46:03,053: INFO: main]: >>>>>>>>>>>>>>> stage Data Transformation stage<<<<<<<<<
+
+x=========x]
+[2026-07-28 19:51:23,096: INFO: main]: >>>>> stage Data Ingestion stage started <<<<<]
+[2026-07-28 19:51:23,098: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-28 19:51:23,099: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-28 19:51:23,101: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-28 19:51:23,101: INFO: common]: Directory created at: artifacts]
+[2026-07-28 19:51:23,101: INFO: common]: Directory created at: artifacts/data_ingestion]
+[2026-07-28 19:51:23,103: INFO: main]: >>>>> stage Data Ingestion stage completed <<<<<
+
+x==========x]
+[2026-07-28 19:51:23,104: INFO: main]: >>>>> stage Data Validation stage started <<<<<]
+[2026-07-28 19:51:23,106: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-28 19:51:23,106: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-28 19:51:23,108: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-28 19:51:23,108: INFO: common]: Directory created at: artifacts]
+[2026-07-28 19:51:23,109: INFO: common]: Directory created at: artifacts/data_validation]
+[2026-07-28 19:51:23,125: INFO: main]: >>>>> stage Data Validation stage completed <<<<<
+
+x==========x]
+[2026-07-28 19:51:23,125: INFO: main]: >>>>>>>>stageData Transformation stage started<<<<<<<<<<<<<]
+[2026-07-28 19:51:23,126: INFO: main]: >>>>>>>>>>>>>>> stage Data Transformation stage<<<<<<<<<
+
+x=========x]
+[2026-07-28 20:00:19,619: INFO: main]: >>>>> stage Data Ingestion stage started <<<<<]
+[2026-07-28 20:00:19,622: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-28 20:00:19,622: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-28 20:00:19,623: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-28 20:00:19,624: INFO: common]: Directory created at: artifacts]
+[2026-07-28 20:00:19,624: INFO: common]: Directory created at: artifacts/data_ingestion]
+[2026-07-28 20:00:19,627: INFO: main]: >>>>> stage Data Ingestion stage completed <<<<<
+
+x==========x]
+[2026-07-28 20:00:19,627: INFO: main]: >>>>> stage Data Validation stage started <<<<<]
+[2026-07-28 20:00:19,629: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-28 20:00:19,630: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-28 20:00:19,631: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-28 20:00:19,632: INFO: common]: Directory created at: artifacts]
+[2026-07-28 20:00:19,632: INFO: common]: Directory created at: artifacts/data_validation]
+[2026-07-28 20:00:19,649: INFO: main]: >>>>> stage Data Validation stage completed <<<<<
+
+x==========x]
+[2026-07-28 20:00:19,649: INFO: main]: >>>>>>>>stageData Transformation stage started<<<<<<<<<<<<<]
+[2026-07-28 20:00:19,650: INFO: main]: >>>>>>>>>>>>>>> stage Data Transformation stage<<<<<<<<<
+
+x=========x]
+[2026-07-28 20:01:04,309: INFO: main]: >>>>> stage Data Ingestion stage started <<<<<]
+[2026-07-28 20:01:04,312: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-28 20:01:04,313: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-28 20:01:04,314: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-28 20:01:04,314: INFO: common]: Directory created at: artifacts]
+[2026-07-28 20:01:04,314: INFO: common]: Directory created at: artifacts/data_ingestion]
+[2026-07-28 20:01:04,317: INFO: main]: >>>>> stage Data Ingestion stage completed <<<<<
+
+x==========x]
+[2026-07-28 20:01:04,317: INFO: main]: >>>>> stage Data Validation stage started <<<<<]
+[2026-07-28 20:01:04,319: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-28 20:01:04,320: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-28 20:01:04,321: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-28 20:01:04,321: INFO: common]: Directory created at: artifacts]
+[2026-07-28 20:01:04,322: INFO: common]: Directory created at: artifacts/data_validation]
+[2026-07-28 20:01:04,340: INFO: main]: >>>>> stage Data Validation stage completed <<<<<
+
+x==========x]
+[2026-07-28 20:01:04,340: INFO: main]: >>>>>>>>stageData Transformation stage started<<<<<<<<<<<<<]
+[2026-07-28 20:01:04,342: INFO: main]: >>>>>>>>>>>>>>> stage Data Transformation stage<<<<<<<<<
+
+x=========x]
+[2026-07-28 20:02:07,822: INFO: main]: >>>>> stage Data Ingestion stage started <<<<<]
+[2026-07-28 20:02:07,826: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-28 20:02:07,827: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-28 20:02:07,829: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-28 20:02:07,829: INFO: common]: Directory created at: artifacts]
+[2026-07-28 20:02:07,830: INFO: common]: Directory created at: artifacts/data_ingestion]
+[2026-07-28 20:02:07,832: INFO: main]: >>>>> stage Data Ingestion stage completed <<<<<
+
+x==========x]
+[2026-07-28 20:02:07,832: INFO: main]: >>>>> stage Data Validation stage started <<<<<]
+[2026-07-28 20:02:07,834: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-28 20:02:07,835: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-28 20:02:07,836: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-28 20:02:07,837: INFO: common]: Directory created at: artifacts]
+[2026-07-28 20:02:07,837: INFO: common]: Directory created at: artifacts/data_validation]
+[2026-07-28 20:02:07,852: INFO: main]: >>>>> stage Data Validation stage completed <<<<<
+
+x==========x]
+[2026-07-28 20:02:07,852: INFO: main]: >>>>>> stage Data Transformation stage started <<<<<<]
+[2026-07-28 20:02:07,853: INFO: main]: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2026-07-28 20:04:29,156: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-28 20:04:29,158: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-28 20:04:29,161: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-28 20:04:29,162: INFO: common]: Directory created at: artifacts]
+[2026-07-28 20:04:29,164: INFO: common]: Directory created at: artifacts/data_transformation]
+[2026-07-28 20:04:29,183: INFO: 492375393]: Train and Test data saved in artifacts\data_transformation]
+[2026-07-28 20:04:29,184: INFO: 492375393]: Train data shape: (1199, 12)]
+[2026-07-28 20:04:29,184: INFO: 492375393]: Test data shape: (400, 12)]
+[2026-07-28 20:04:58,375: INFO: main]: >>>>> stage Data Ingestion stage started <<<<<]
+[2026-07-28 20:04:58,378: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-28 20:04:58,379: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-28 20:04:58,380: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-28 20:04:58,380: INFO: common]: Directory created at: artifacts]
+[2026-07-28 20:04:58,380: INFO: common]: Directory created at: artifacts/data_ingestion]
+[2026-07-28 20:04:58,383: INFO: main]: >>>>> stage Data Ingestion stage completed <<<<<
+
+x==========x]
+[2026-07-28 20:04:58,383: INFO: main]: >>>>> stage Data Validation stage started <<<<<]
+[2026-07-28 20:04:58,385: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-28 20:04:58,386: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-28 20:04:58,387: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-28 20:04:58,388: INFO: common]: Directory created at: artifacts]
+[2026-07-28 20:04:58,388: INFO: common]: Directory created at: artifacts/data_validation]
+[2026-07-28 20:04:58,406: INFO: main]: >>>>> stage Data Validation stage completed <<<<<
+
+x==========x]
+[2026-07-28 20:04:58,406: INFO: main]: >>>>>> stage Data Transformation stage started <<<<<<]
+[2026-07-28 20:04:58,408: INFO: main]: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2026-07-28 20:05:08,804: INFO: main]: >>>>> stage Data Ingestion stage started <<<<<]
+[2026-07-28 20:05:08,806: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-28 20:05:08,807: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-28 20:05:08,808: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-28 20:05:08,809: INFO: common]: Directory created at: artifacts]
+[2026-07-28 20:05:08,809: INFO: common]: Directory created at: artifacts/data_ingestion]
+[2026-07-28 20:05:08,811: INFO: main]: >>>>> stage Data Ingestion stage completed <<<<<
+
+x==========x]
+[2026-07-28 20:05:08,812: INFO: main]: >>>>> stage Data Validation stage started <<<<<]
+[2026-07-28 20:05:08,813: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-28 20:05:08,814: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-28 20:05:08,815: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-28 20:05:08,816: INFO: common]: Directory created at: artifacts]
+[2026-07-28 20:05:08,816: INFO: common]: Directory created at: artifacts/data_validation]
+[2026-07-28 20:05:08,834: INFO: main]: >>>>> stage Data Validation stage completed <<<<<
+
+x==========x]
+[2026-07-28 20:05:08,834: INFO: main]: >>>>>> stage Data Transformation stage started <<<<<<]
+[2026-07-28 20:05:08,835: INFO: main]: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2026-07-28 20:05:36,816: INFO: main]: >>>>> stage Data Ingestion stage started <<<<<]
+[2026-07-28 20:05:36,819: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-28 20:05:36,819: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-28 20:05:36,821: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-28 20:05:36,821: INFO: common]: Directory created at: artifacts]
+[2026-07-28 20:05:36,821: INFO: common]: Directory created at: artifacts/data_ingestion]
+[2026-07-28 20:05:36,823: INFO: main]: >>>>> stage Data Ingestion stage completed <<<<<
+
+x==========x]
+[2026-07-28 20:05:36,823: INFO: main]: >>>>> stage Data Validation stage started <<<<<]
+[2026-07-28 20:05:36,824: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-28 20:05:36,825: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-28 20:05:36,826: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-28 20:05:36,827: INFO: common]: Directory created at: artifacts]
+[2026-07-28 20:05:36,827: INFO: common]: Directory created at: artifacts/data_validation]
+[2026-07-28 20:05:36,846: INFO: main]: >>>>> stage Data Validation stage completed <<<<<
+
+x==========x]
+[2026-07-28 20:05:36,846: INFO: main]: >>>>>> stage Data Transformation stage started <<<<<<]
+[2026-07-28 20:05:36,848: INFO: main]: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2026-07-28 20:11:38,488: INFO: main]: >>>>> stage Data Ingestion stage started <<<<<]
+[2026-07-28 20:11:38,490: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-28 20:11:38,491: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-28 20:11:38,491: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-28 20:11:38,492: INFO: common]: Directory created at: artifacts]
+[2026-07-28 20:11:38,492: INFO: common]: Directory created at: artifacts/data_ingestion]
+[2026-07-28 20:11:38,494: INFO: main]: >>>>> stage Data Ingestion stage completed <<<<<
+
+x==========x]
+[2026-07-28 20:11:38,494: INFO: main]: >>>>> stage Data Validation stage started <<<<<]
+[2026-07-28 20:11:38,495: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-28 20:11:38,496: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-28 20:11:38,497: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-28 20:11:38,497: INFO: common]: Directory created at: artifacts]
+[2026-07-28 20:11:38,497: INFO: common]: Directory created at: artifacts/data_validation]
+[2026-07-28 20:11:38,512: INFO: main]: >>>>> stage Data Validation stage completed <<<<<
+
+x==========x]
+[2026-07-28 20:11:38,512: INFO: main]: >>>>>> stage Data Transformation stage started <<<<<<]
+[2026-07-28 20:11:38,514: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-28 20:11:38,515: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-28 20:11:38,515: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-28 20:11:38,516: INFO: common]: Directory created at: artifacts]
+[2026-07-28 20:11:38,517: INFO: common]: Directory created at: artifacts/data_transformation]
+[2026-07-28 20:11:38,541: INFO: data_transformation]: Train and Test data saved in artifacts/data_transformation]
+[2026-07-28 20:11:38,541: INFO: data_transformation]: Train data shape: (1199, 12)]
+[2026-07-28 20:11:38,542: INFO: data_transformation]: Test data shape: (400, 12)]
+[2026-07-28 20:11:38,542: INFO: main]: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2026-07-28 20:12:40,973: INFO: main]: >>>>> stage Data Ingestion stage started <<<<<]
+[2026-07-28 20:12:40,976: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-28 20:12:40,977: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-28 20:12:40,978: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-28 20:12:40,978: INFO: common]: Directory created at: artifacts]
+[2026-07-28 20:12:40,979: INFO: common]: Directory created at: artifacts/data_ingestion]
+[2026-07-28 20:12:40,981: INFO: main]: >>>>> stage Data Ingestion stage completed <<<<<
+
+x==========x]
+[2026-07-28 20:12:40,981: INFO: main]: >>>>> stage Data Validation stage started <<<<<]
+[2026-07-28 20:12:40,983: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-28 20:12:40,985: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-28 20:12:40,986: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-28 20:12:40,987: INFO: common]: Directory created at: artifacts]
+[2026-07-28 20:12:40,987: INFO: common]: Directory created at: artifacts/data_validation]
+[2026-07-28 20:12:41,000: INFO: main]: >>>>> stage Data Validation stage completed <<<<<
+
+x==========x]
+[2026-07-28 20:12:41,001: INFO: main]: >>>>>> stage Data Transformation stage started <<<<<<]
+[2026-07-28 20:12:41,004: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-28 20:12:41,005: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-28 20:12:41,006: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-28 20:12:41,006: INFO: common]: Directory created at: artifacts]
+[2026-07-28 20:12:41,007: INFO: common]: Directory created at: artifacts/data_transformation]
+[2026-07-28 20:12:41,019: INFO: data_transformation]: Train and Test data saved in artifacts/data_transformation]
+[2026-07-28 20:12:41,020: INFO: data_transformation]: Train data shape: (1199, 12)]
+[2026-07-28 20:12:41,020: INFO: data_transformation]: Test data shape: (400, 12)]
+[2026-07-28 20:12:41,020: INFO: main]: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2026-07-28 20:13:01,752: INFO: main]: >>>>> stage Data Ingestion stage started <<<<<]
+[2026-07-28 20:13:01,755: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-28 20:13:01,755: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-28 20:13:01,757: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-28 20:13:01,757: INFO: common]: Directory created at: artifacts]
+[2026-07-28 20:13:01,757: INFO: common]: Directory created at: artifacts/data_ingestion]
+[2026-07-28 20:13:01,760: INFO: main]: >>>>> stage Data Ingestion stage completed <<<<<
+
+x==========x]
+[2026-07-28 20:13:01,760: INFO: main]: >>>>> stage Data Validation stage started <<<<<]
+[2026-07-28 20:13:01,761: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-28 20:13:01,762: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-28 20:13:01,764: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-28 20:13:01,764: INFO: common]: Directory created at: artifacts]
+[2026-07-28 20:13:01,764: INFO: common]: Directory created at: artifacts/data_validation]
+[2026-07-28 20:13:01,778: INFO: main]: >>>>> stage Data Validation stage completed <<<<<
+
+x==========x]
+[2026-07-28 20:13:01,779: INFO: main]: >>>>>> stage Data Transformation stage started <<<<<<]
+[2026-07-28 20:13:01,782: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-28 20:13:01,782: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-28 20:13:01,784: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-28 20:13:01,784: INFO: common]: Directory created at: artifacts]
+[2026-07-28 20:13:01,785: INFO: common]: Directory created at: artifacts/data_transformation]
+[2026-07-28 20:13:01,805: INFO: data_transformation]: Train and Test data saved in artifacts/data_transformation]
+[2026-07-28 20:13:01,805: INFO: data_transformation]: Train data shape: (1199, 12)]
+[2026-07-28 20:13:01,805: INFO: data_transformation]: Test data shape: (400, 12)]
+[2026-07-28 20:13:01,805: INFO: main]: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2026-07-28 20:14:59,218: INFO: main]: >>>>> stage Data Ingestion stage started <<<<<]
+[2026-07-28 20:14:59,221: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-28 20:14:59,222: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-28 20:14:59,223: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-28 20:14:59,223: INFO: common]: Directory created at: artifacts]
+[2026-07-28 20:14:59,224: INFO: common]: Directory created at: artifacts/data_ingestion]
+[2026-07-28 20:15:01,312: INFO: main]: >>>>> stage Data Ingestion stage completed <<<<<
+
+x==========x]
+[2026-07-28 20:15:01,312: INFO: main]: >>>>> stage Data Validation stage started <<<<<]
+[2026-07-28 20:15:01,314: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-28 20:15:01,315: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-28 20:15:01,316: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-28 20:15:01,316: INFO: common]: Directory created at: artifacts]
+[2026-07-28 20:15:01,317: INFO: common]: Directory created at: artifacts/data_validation]
+[2026-07-28 20:15:01,330: INFO: main]: >>>>> stage Data Validation stage completed <<<<<
+
+x==========x]
+[2026-07-28 20:15:01,330: INFO: main]: >>>>>> stage Data Transformation stage started <<<<<<]
+[2026-07-28 20:15:01,333: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-28 20:15:01,334: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-28 20:15:01,336: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-28 20:15:01,336: INFO: common]: Directory created at: artifacts]
+[2026-07-28 20:15:01,337: INFO: common]: Directory created at: artifacts/data_transformation]
+[2026-07-28 20:15:01,349: INFO: data_transformation]: Train and Test data saved in artifacts/data_transformation]
+[2026-07-28 20:15:01,349: INFO: data_transformation]: Train data shape: (1199, 12)]
+[2026-07-28 20:15:01,349: INFO: data_transformation]: Test data shape: (400, 12)]
+[2026-07-28 20:15:01,349: INFO: main]: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2026-07-28 20:15:22,283: INFO: main]: >>>>> stage Data Ingestion stage started <<<<<]
+[2026-07-28 20:15:22,286: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-28 20:15:22,286: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-28 20:15:22,288: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-28 20:15:22,288: INFO: common]: Directory created at: artifacts]
+[2026-07-28 20:15:22,288: INFO: common]: Directory created at: artifacts/data_ingestion]
+[2026-07-28 20:15:23,010: INFO: main]: >>>>> stage Data Ingestion stage completed <<<<<
+
+x==========x]
+[2026-07-28 20:15:23,011: INFO: main]: >>>>> stage Data Validation stage started <<<<<]
+[2026-07-28 20:15:23,013: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-28 20:15:23,014: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-28 20:15:23,015: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-28 20:15:23,016: INFO: common]: Directory created at: artifacts]
+[2026-07-28 20:15:23,016: INFO: common]: Directory created at: artifacts/data_validation]
+[2026-07-28 20:15:23,029: INFO: main]: >>>>> stage Data Validation stage completed <<<<<
+
+x==========x]
+[2026-07-28 20:15:23,030: INFO: main]: >>>>>> stage Data Transformation stage started <<<<<<]
+[2026-07-28 20:15:23,032: INFO: common]: yaml file: config\config.yaml loaded successfully]
+[2026-07-28 20:15:23,033: INFO: common]: yaml file: params.yaml loaded successfully]
+[2026-07-28 20:15:23,035: INFO: common]: yaml file: schema.yaml loaded successfully]
+[2026-07-28 20:15:23,036: INFO: common]: Directory created at: artifacts]
+[2026-07-28 20:15:23,036: INFO: common]: Directory created at: artifacts/data_transformation]
+[2026-07-28 20:15:23,048: INFO: data_transformation]: Train and Test data saved in artifacts/data_transformation]
+[2026-07-28 20:15:23,049: INFO: data_transformation]: Train data shape: (1199, 12)]
+[2026-07-28 20:15:23,049: INFO: data_transformation]: Test data shape: (400, 12)]
+[2026-07-28 20:15:23,049: INFO: main]: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
